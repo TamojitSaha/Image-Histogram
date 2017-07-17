@@ -16,5 +16,4 @@ histogramImage('lena.jpg',4,8,600)
 ### Histogram of the source image
 ![alt_text](https://github.com/TamojitSaha/Image-Histogram/blob/master/histogram_lena.jpg "Histogram of 'lena.jpg'")
 
-#### 
-[Here](:https://github.com/TamojitSaha/Image-Histogram/blob/master/histogram.py)  goes the python script.
+#### [Here](https://github.com/TamojitSaha/Image-Histogram/blob/master/histogram.py) goes the python script.
